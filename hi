@@ -1,0 +1,10 @@
+using system;
+
+public class test
+{
+   public static void Main()
+   {
+      Console.WriteLine("hello world!")
+   }
+}
+yarn start
